@@ -1,1 +1,1 @@
-# Webpack Tailwind Starter
+# Pricing Cards
